@@ -1,4 +1,4 @@
-package com.lxh.duck;
+package com.lxh.strategy;
 
 /**
  * @author lixianghuan@allcomchina.com
@@ -14,6 +14,6 @@ public class MallardDuck extends Duck {
     }
 
     public void display() {
-        System.out.println("this is a mallard duck");
+        System.out.println("this is a mallard strategy");
     }
 }

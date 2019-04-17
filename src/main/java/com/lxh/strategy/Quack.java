@@ -1,4 +1,4 @@
-package com.lxh.duck;
+package com.lxh.strategy;
 
 /**
  * @author lixianghuan@allcomchina.com
@@ -6,9 +6,9 @@ package com.lxh.duck;
  * @extra code change the world
  * @description
  */
-public class MuteQuack implements QuackBehavior {
+public class Quack implements QuackBehavior {
 
     public void quack() {
-        System.out.println("no quack");
+        System.out.println("quack");
     }
 }

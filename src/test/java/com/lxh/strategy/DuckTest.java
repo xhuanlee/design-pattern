@@ -1,4 +1,4 @@
-package com.lxh.duck;
+package com.lxh.strategy;
 
 import org.junit.Test;
 

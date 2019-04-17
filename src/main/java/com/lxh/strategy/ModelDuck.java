@@ -1,4 +1,4 @@
-package com.lxh.duck;
+package com.lxh.strategy;
 
 /**
  * @author lixianghuan@allcomchina.com
@@ -14,7 +14,7 @@ public class ModelDuck extends Duck {
     }
 
     public void display() {
-        System.out.println("model duck");
+        System.out.println("model strategy");
     }
 
 }
